@@ -3,7 +3,7 @@
 ```
 프로필링크페이지 만들기 
   
-[결과물] https://hwangsunae88.github.io/mybucketlist/ 
+[결과물] https://hwangsunae88.github.io/mybucketlist/
 
 ```
 
